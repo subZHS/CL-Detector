@@ -1,0 +1,39 @@
+path: metamx_druid
+source_paths: 
+  - /
+---
+path: atlasapi_atlas
+source_paths: 
+  - /
+---
+path: curtisullerich_attendance
+source_paths: 
+  - /
+---
+path: almende_eve
+source_paths: 
+  - /
+---
+path: ist-dsi_expenditures
+source_paths: 
+  - /
+---
+path: Jasig_CalendarPortlet
+source_paths: 
+  - /
+---
+path: eduramiba_gephi-linkfluence-plugin
+source_paths: 
+  - /
+---
+path: manhattancollege_up-calendar-portlet
+source_paths: 
+  - /
+---
+path: bobeal_capdemat
+source_paths: 
+  - /
+---
+path: vijeshm_gephi-gsoc13-legendmodule
+source_paths: 
+  - /

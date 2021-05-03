@@ -1,0 +1,39 @@
+path: HidemotoNakada_cassandra-udf
+source_paths: 
+  - /
+---
+path: bcoverston_apache-hosted-cassandra
+source_paths: 
+  - /
+---
+path: chototsu_MikuMikuStudio
+source_paths: 
+  - /
+---
+path: elka-projekt_cs-voltdb
+source_paths: 
+  - /
+---
+path: mirror_jpcsp
+source_paths: 
+  - /
+---
+path: LWJGL_lwjgl
+source_paths: 
+  - /
+---
+path: IQSS_dvn
+source_paths: 
+  - /
+---
+path: ConatyConsulting_jaudiotagger
+source_paths: 
+  - /
+---
+path: undertow-io_undertow
+source_paths: 
+  - /
+---
+path: craigpetchell_Jaudiotagger
+source_paths: 
+  - /

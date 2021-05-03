@@ -1,0 +1,39 @@
+path: gmillz_packages_apps_SlimLauncher
+source_paths: 
+  - /
+---
+path: timduru_platform-packages-Launcher2
+source_paths: 
+  - /
+---
+path: Droid-Concepts_android_packages_apps_Launcher2
+source_paths: 
+  - /
+---
+path: svn2github_sakai-kernel
+source_paths: 
+  - /
+---
+path: rcilia_LauncherOfficiel
+source_paths: 
+  - /
+---
+path: ThinkingBridge_platform_packages_apps_Launcher2
+source_paths: 
+  - /
+---
+path: eclipse_eclipse.jdt.debug
+source_paths: 
+  - /
+---
+path: eclipse_eclipse.platform.team
+source_paths: 
+  - /
+---
+path: irbull_rt.eclipse.p2
+source_paths: 
+  - /
+---
+path: hazelcast_hazelcast
+source_paths: 
+  - /

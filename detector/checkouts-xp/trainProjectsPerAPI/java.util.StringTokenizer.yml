@@ -1,0 +1,39 @@
+path: aldaris_opensso
+source_paths: 
+  - /
+---
+path: irbull_rt.eclipse.p2
+source_paths: 
+  - /
+---
+path: eclipse_tycho.p2-fork
+source_paths: 
+  - /
+---
+path: vogella_eclipse-platform
+source_paths: 
+  - /
+---
+path: eclipse_rt.equinox.p2
+source_paths: 
+  - /
+---
+path: anthonydahanne_make-p2-buildable-with-tycho
+source_paths: 
+  - /
+---
+path: mhl_libbio-formats-java
+source_paths: 
+  - /
+---
+path: charles-dyfis-net_svnkit
+source_paths: 
+  - /
+---
+path: eclipse_eclipse.platform
+source_paths: 
+  - /
+---
+path: CyanogenMod_android_packages_apps_Exchange
+source_paths: 
+  - /

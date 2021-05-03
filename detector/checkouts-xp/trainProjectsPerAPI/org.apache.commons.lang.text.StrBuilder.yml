@@ -1,0 +1,23 @@
+path: RoyalDev_RoyalCommands
+source_paths: 
+  - /
+---
+path: AGETO_gyrex-carbonado-persistence
+source_paths: 
+  - /
+---
+path: apache_maven-sandbox
+source_paths: 
+  - /
+---
+path: Mikescher_jClipCorn
+source_paths: 
+  - /
+---
+path: marubinotto_Piggydb
+source_paths: 
+  - /
+---
+path: mgm-tp_perfload-perfmon
+source_paths: 
+  - /

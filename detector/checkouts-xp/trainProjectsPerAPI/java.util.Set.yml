@@ -1,0 +1,39 @@
+path: aldaris_opensso
+source_paths: 
+  - /
+---
+path: svn2github_sakai-kernel
+source_paths: 
+  - /
+---
+path: eclipse_eclipse.platform.team
+source_paths: 
+  - /
+---
+path: aldaris_openam
+source_paths: 
+  - /
+---
+path: irbull_rt.eclipse.p2
+source_paths: 
+  - /
+---
+path: eclipse_tycho.p2-fork
+source_paths: 
+  - /
+---
+path: eclipse_rt.equinox.p2
+source_paths: 
+  - /
+---
+path: cytoscape_cytoscape2
+source_paths: 
+  - /
+---
+path: anthonydahanne_make-p2-buildable-with-tycho
+source_paths: 
+  - /
+---
+path: vogella_eclipse-platform
+source_paths: 
+  - /

@@ -1,0 +1,39 @@
+path: CSE-560-A-Team_URBAN-Legend
+source_paths: 
+  - /
+---
+path: valotrading_stirling
+source_paths: 
+  - /
+---
+path: jpverkamp_wombat-ide
+source_paths: 
+  - /
+---
+path: sleuthkit_autopsy
+source_paths: 
+  - /
+---
+path: jayway_maven-android-plugin
+source_paths: 
+  - /
+---
+path: leapcode_bitmask_android
+source_paths: 
+  - /
+---
+path: calebegg_proof-pad
+source_paths: 
+  - /
+---
+path: mozilla-services_android-sync
+source_paths: 
+  - /
+---
+path: zhuowei_MCPELauncher
+source_paths: 
+  - /
+---
+path: azkaban_azkaban-plugins
+source_paths: 
+  - /

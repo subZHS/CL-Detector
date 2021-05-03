@@ -1,0 +1,39 @@
+path: aldaris_opensso
+source_paths: 
+  - /
+---
+path: vogella_eclipse-platform
+source_paths: 
+  - /
+---
+path: eclipse_eclipse.jdt.debug
+source_paths: 
+  - /
+---
+path: eclipse_eclipse.platform.text
+source_paths: 
+  - /
+---
+path: charles-dyfis-net_svnkit
+source_paths: 
+  - /
+---
+path: irbull_rt.eclipse.p2
+source_paths: 
+  - /
+---
+path: eclipse_tycho.p2-fork
+source_paths: 
+  - /
+---
+path: eclipse_eclipse.platform.team
+source_paths: 
+  - /
+---
+path: IQSS_dvn
+source_paths: 
+  - /
+---
+path: YongJiang_org.eclipse.birt.engine
+source_paths: 
+  - /

@@ -1,0 +1,39 @@
+path: vorburger_mifos-head
+source_paths: 
+  - /
+---
+path: marymiller_floodlight
+source_paths: 
+  - /
+---
+path: wallnerryan_FL_HAND
+source_paths: 
+  - /
+---
+path: kwanggithub_umfloodlight
+source_paths: 
+  - /
+---
+path: BelieveROM_android_libcore
+source_paths: 
+  - /
+---
+path: mhl_libbio-formats-java
+source_paths: 
+  - /
+---
+path: mvel_mvel
+source_paths: 
+  - /
+---
+path: jenkinsci_groovy
+source_paths: 
+  - /
+---
+path: apache_poi
+source_paths: 
+  - /
+---
+path: Root-Box_libcore
+source_paths: 
+  - /

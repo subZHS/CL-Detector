@@ -1,0 +1,39 @@
+path: BelieveROM_android_libcore
+source_paths: 
+  - /
+---
+path: pacerom_libcore
+source_paths: 
+  - /
+---
+path: justinsb_android-libcore
+source_paths: 
+  - /
+---
+path: mnip91_proactive-component-monitoring
+source_paths: 
+  - /
+---
+path: timduru_platform-libcore
+source_paths: 
+  - /
+---
+path: cubieboard_openbox_libcore
+source_paths: 
+  - /
+---
+path: acontes_programming
+source_paths: 
+  - /
+---
+path: fiji_TrakEM2
+source_paths: 
+  - /
+---
+path: kaffe_kaffe
+source_paths: 
+  - /
+---
+path: uvalbbu_dalvik_test
+source_paths: 
+  - /

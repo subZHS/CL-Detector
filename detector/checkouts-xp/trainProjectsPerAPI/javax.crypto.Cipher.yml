@@ -1,0 +1,39 @@
+path: TechnicPack_LegacyLauncher
+source_paths: 
+  - /
+---
+path: marianoboezio_test
+source_paths: 
+  - /
+---
+path: Betterverse_Launcher
+source_paths: 
+  - /
+---
+path: SpigotMC_BungeeCord
+source_paths: 
+  - /
+---
+path: Energy0124_TechnicLauncherSP
+source_paths: 
+  - /
+---
+path: KKBOX_android_kktoolkit
+source_paths: 
+  - /
+---
+path: ebollens_ccnmp
+source_paths: 
+  - /
+---
+path: jruby_jruby-ossl
+source_paths: 
+  - /
+---
+path: rtyley_test-bc-java-cvsimport
+source_paths: 
+  - /
+---
+path: apache_santuario-java
+source_paths: 
+  - /

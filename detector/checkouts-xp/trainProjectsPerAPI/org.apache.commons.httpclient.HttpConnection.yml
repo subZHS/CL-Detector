@@ -1,0 +1,39 @@
+path: baohaojun_davmail
+source_paths: 
+  - /
+---
+path: SmartHub_ExcursionOrganizer
+source_paths: 
+  - /
+---
+path: exalead_commons-httpclient-failover
+source_paths: 
+  - /
+---
+path: aaronbinns_heritrix3
+source_paths: 
+  - /
+---
+path: eclipse_mylyn.commons
+source_paths: 
+  - /
+---
+path: SmartBear_soapui
+source_paths: 
+  - /
+---
+path: AbinashBishoyi_FreeRapid-Plugins
+source_paths: 
+  - /
+---
+path: BertrandDechoux_Heritrix-3
+source_paths: 
+  - /
+---
+path: aaronbinns_wayback
+source_paths: 
+  - /
+---
+path: apache_commons-vfs
+source_paths: 
+  - /

@@ -1,0 +1,39 @@
+path: aldaris_opensso
+source_paths: 
+  - /
+---
+path: ifedorenko_rt.equinox.framework
+source_paths: 
+  - /
+---
+path: vogella_eclipse-platform
+source_paths: 
+  - /
+---
+path: vaadin_atmosphere
+source_paths: 
+  - /
+---
+path: visad_visad
+source_paths: 
+  - /
+---
+path: irbull_rt.eclipse.p2
+source_paths: 
+  - /
+---
+path: eclipse_tycho.p2-fork
+source_paths: 
+  - /
+---
+path: RackerWilliams_xercesj
+source_paths: 
+  - /
+---
+path: apache_xalan-j
+source_paths: 
+  - /
+---
+path: jboss_xerces
+source_paths: 
+  - /

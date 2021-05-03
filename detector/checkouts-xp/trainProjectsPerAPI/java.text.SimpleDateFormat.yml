@@ -1,0 +1,39 @@
+path: KyLinOS_android_packages_apps_Camera
+source_paths: 
+  - /
+---
+path: LOSP_packages_apps_Camera
+source_paths: 
+  - /
+---
+path: Root-Box_packages_apps_Camera
+source_paths: 
+  - /
+---
+path: aokpx-private_platform_packages_apps_Camera
+source_paths: 
+  - /
+---
+path: BelieveROM_packages_apps_Camera
+source_paths: 
+  - /
+---
+path: iGio90_packages_apps_jellybam_Camera
+source_paths: 
+  - /
+---
+path: TeamBAKED_packages_apps_Camera
+source_paths: 
+  - /
+---
+path: MoKee_android_packages_apps_Camera
+source_paths: 
+  - /
+---
+path: cphelps76_packages_apps_Camera
+source_paths: 
+  - /
+---
+path: NukeAOSP_packages_apps_Camera
+source_paths: 
+  - /

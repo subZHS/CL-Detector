@@ -1,0 +1,39 @@
+path: dCache_dcache
+source_paths: 
+  - /
+---
+path: nourlcn_hadoop-1.0
+source_paths: 
+  - /
+---
+path: rsavoye_k9-mail
+source_paths: 
+  - /
+---
+path: kambatla_hadoop-1
+source_paths: 
+  - /
+---
+path: BelieveROM_android_libcore
+source_paths: 
+  - /
+---
+path: maddoggin_platform_libcore
+source_paths: 
+  - /
+---
+path: InsomniaAOSP_platform_libcore
+source_paths: 
+  - /
+---
+path: mrgatesjunior_platform_libcore
+source_paths: 
+  - /
+---
+path: Root-Box_libcore
+source_paths: 
+  - /
+---
+path: UnicornButter_libcore
+source_paths: 
+  - /

@@ -1,0 +1,39 @@
+path: gmillz_packages_apps_SlimLauncher
+source_paths: 
+  - /
+---
+path: VanirAOSP_packages_apps_Launcher2
+source_paths: 
+  - /
+---
+path: timduru_platform-packages-Launcher2
+source_paths: 
+  - /
+---
+path: Droid-Concepts_android_packages_apps_Launcher2
+source_paths: 
+  - /
+---
+path: Droid-Concepts_packages_apps_DCHome
+source_paths: 
+  - /
+---
+path: scotthartbti_android_packages_apps_Contacts
+source_paths: 
+  - /
+---
+path: iGio90_android_packages_apps_Trebuchet
+source_paths: 
+  - /
+---
+path: rcilia_LauncherOfficiel
+source_paths: 
+  - /
+---
+path: Droid-Concepts_packages_apps_Contacts
+source_paths: 
+  - /
+---
+path: InsomniaROM_packages_apps_Contacts
+source_paths: 
+  - /

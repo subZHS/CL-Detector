@@ -1,0 +1,39 @@
+path: tmyroadctfig_swingx
+source_paths: 
+  - /
+---
+path: openspim_micromanager
+source_paths: 
+  - /
+---
+path: freeplane_freeplane
+source_paths: 
+  - /
+---
+path: rzymek_vassal-src
+source_paths: 
+  - /
+---
+path: stlanger_Docear
+source_paths: 
+  - /
+---
+path: mdcurtis_micromanager-upstream
+source_paths: 
+  - /
+---
+path: imr_Electric-VLSI
+source_paths: 
+  - /
+---
+path: agilebirds_openflexo
+source_paths: 
+  - /
+---
+path: spullara_maptool
+source_paths: 
+  - /
+---
+path: noe_sgf.importer
+source_paths: 
+  - /

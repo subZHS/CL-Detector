@@ -1,0 +1,39 @@
+path: AbinashBishoyi_FreeRapid-Plugins
+source_paths: 
+  - /
+---
+path: socialpercon_anki
+source_paths: 
+  - /
+---
+path: ReVolt-ROM_packages_apps_Browser
+source_paths: 
+  - /
+---
+path: RemixPA_android_packages_apps_Browser
+source_paths: 
+  - /
+---
+path: ThinkingBridge_platform_packages_apps_Browser
+source_paths: 
+  - /
+---
+path: CNA_android_packages_apps_Browser
+source_paths: 
+  - /
+---
+path: KyLinOS_android_packages_apps_Browser
+source_paths: 
+  - /
+---
+path: ParanoidAndroid_android_packages_apps_Browser
+source_paths: 
+  - /
+---
+path: SamMobile_android_packages_apps_Browser
+source_paths: 
+  - /
+---
+path: TeamNyx_packages_apps_Browser
+source_paths: 
+  - /

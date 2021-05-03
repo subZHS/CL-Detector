@@ -1,0 +1,27 @@
+path: dongaihua_highlight-elasticsearch
+source_paths: 
+  - /
+---
+path: elasticsearch_elasticsearch
+source_paths: 
+  - /
+---
+path: senseidb_bobo
+source_paths: 
+  - /
+---
+path: sleepsort_lucene-solr
+source_paths: 
+  - /
+---
+path: thihy_lucene
+source_paths: 
+  - /
+---
+path: aaronbinns_tnh
+source_paths: 
+  - /
+---
+path: espinaemmanuel_tppro
+source_paths: 
+  - /

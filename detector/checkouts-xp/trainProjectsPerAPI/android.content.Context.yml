@@ -1,0 +1,35 @@
+path: gmillz_packages_apps_SlimLauncher
+source_paths: 
+  - /
+---
+path: timduru_platform-packages-Launcher2
+source_paths: 
+  - /
+---
+path: Droid-Concepts_android_packages_apps_Launcher2
+source_paths: 
+  - /
+---
+path: rcilia_LauncherOfficiel
+source_paths: 
+  - /
+---
+path: ThinkingBridge_platform_packages_apps_Launcher2
+source_paths: 
+  - /
+---
+path: sisbell_email
+source_paths: 
+  - /
+---
+path: sdugit_Email_7025
+source_paths: 
+  - /
+---
+path: DroidJunk_droidjunk_packages_apps_Contacts
+source_paths: 
+  - /
+---
+path: boundarydevices_LatinIME
+source_paths: 
+  - /

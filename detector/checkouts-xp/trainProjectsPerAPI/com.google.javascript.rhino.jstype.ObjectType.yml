@@ -1,0 +1,19 @@
+path: shantanusharma_closure-compiler
+source_paths: 
+  - /
+---
+path: knutwalker_google-closure-compiler
+source_paths: 
+  - /
+---
+path: bolinfest_plovr
+source_paths: 
+  - /
+---
+path: vtst_ow
+source_paths: 
+  - /
+---
+path: arcadoss_js-invulnerable
+source_paths: 
+  - /

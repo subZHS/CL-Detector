@@ -1,0 +1,39 @@
+path: cytoscape_cytoscape2
+source_paths: 
+  - /
+---
+path: freenet_plugin-WoT-staging
+source_paths: 
+  - /
+---
+path: jenkinsci_groovy
+source_paths: 
+  - /
+---
+path: libraryaddict_LibsDisguises
+source_paths: 
+  - /
+---
+path: fiji_TrakEM2
+source_paths: 
+  - /
+---
+path: vaadin_gwt
+source_paths: 
+  - /
+---
+path: BelieveROM_android_libcore
+source_paths: 
+  - /
+---
+path: mhl_libbio-formats-java
+source_paths: 
+  - /
+---
+path: Root-Box_libcore
+source_paths: 
+  - /
+---
+path: iontorrent_Torrent-Variant-Caller-stable
+source_paths: 
+  - /

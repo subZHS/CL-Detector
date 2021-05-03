@@ -1,0 +1,39 @@
+path: sleepsort_lucene-solr
+source_paths: 
+  - /
+---
+path: thihy_lucene
+source_paths: 
+  - /
+---
+path: objectledge_cyklotron
+source_paths: 
+  - /
+---
+path: ieure_lucene-solr-snapshot
+source_paths: 
+  - /
+---
+path: OpenGrok_OpenGrok
+source_paths: 
+  - /
+---
+path: sonarme_luke
+source_paths: 
+  - /
+---
+path: apache_jackrabbit-oak
+source_paths: 
+  - /
+---
+path: tteofili_nlp-utils
+source_paths: 
+  - /
+---
+path: svn2github_lire
+source_paths: 
+  - /
+---
+path: DSpace_DSpace
+source_paths: 
+  - /

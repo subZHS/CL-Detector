@@ -1,0 +1,39 @@
+path: aldaris_opensso
+source_paths: 
+  - /
+---
+path: ceylon_ceylon-compiler
+source_paths: 
+  - /
+---
+path: mdaniel_svn-caucho-com-resin
+source_paths: 
+  - /
+---
+path: fiji_TrakEM2
+source_paths: 
+  - /
+---
+path: grails_grails
+source_paths: 
+  - /
+---
+path: apache_openejb
+source_paths: 
+  - /
+---
+path: int3_jython
+source_paths: 
+  - /
+---
+path: ifedorenko_rt.equinox.framework
+source_paths: 
+  - /
+---
+path: maihde_org.eclipse.rap
+source_paths: 
+  - /
+---
+path: purplefox_jython
+source_paths: 
+  - /

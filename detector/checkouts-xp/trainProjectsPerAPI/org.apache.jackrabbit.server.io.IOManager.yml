@@ -1,0 +1,7 @@
+path: Spectrsys_cosmo
+source_paths: 
+  - /
+---
+path: apache_sling
+source_paths: 
+  - /

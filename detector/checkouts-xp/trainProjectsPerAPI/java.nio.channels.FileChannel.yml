@@ -1,0 +1,39 @@
+path: IQSS_dvn
+source_paths: 
+  - /
+---
+path: dvn_dvn-svn-import-test4
+source_paths: 
+  - /
+---
+path: undertow-io_undertow
+source_paths: 
+  - /
+---
+path: jruby_jruby-cdc
+source_paths: 
+  - /
+---
+path: pbeaman_persistit
+source_paths: 
+  - /
+---
+path: dvn_dvn-svn-import-test2
+source_paths: 
+  - /
+---
+path: ConatyConsulting_jaudiotagger
+source_paths: 
+  - /
+---
+path: craigpetchell_Jaudiotagger
+source_paths: 
+  - /
+---
+path: dotCMS_dotCMS
+source_paths: 
+  - /
+---
+path: boundarydevices_LatinIME
+source_paths: 
+  - /

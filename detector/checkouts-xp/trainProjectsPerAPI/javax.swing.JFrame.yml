@@ -1,0 +1,39 @@
+path: imr_Electric-VLSI
+source_paths: 
+  - /
+---
+path: fiji_TrakEM2
+source_paths: 
+  - /
+---
+path: cytoscape_cytoscape2
+source_paths: 
+  - /
+---
+path: openspim_micromanager
+source_paths: 
+  - /
+---
+path: cms-sw_hlt-confdb
+source_paths: 
+  - /
+---
+path: EDACC_edacc_gui
+source_paths: 
+  - /
+---
+path: stlanger_Docear
+source_paths: 
+  - /
+---
+path: ThatGuyOverTher_Frost
+source_paths: 
+  - /
+---
+path: freeplane_freeplane
+source_paths: 
+  - /
+---
+path: tmyroadctfig_swingx
+source_paths: 
+  - /

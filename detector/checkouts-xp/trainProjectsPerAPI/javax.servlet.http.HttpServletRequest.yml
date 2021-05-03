@@ -1,0 +1,39 @@
+path: aldaris_opensso
+source_paths: 
+  - /
+---
+path: czarneckid_blojsom-sourceforge
+source_paths: 
+  - /
+---
+path: dotCMS_dotCMS
+source_paths: 
+  - /
+---
+path: skaegi_orion.server
+source_paths: 
+  - /
+---
+path: IQSS_dvn
+source_paths: 
+  - /
+---
+path: vaadin_atmosphere
+source_paths: 
+  - /
+---
+path: vorburger_mifos-head
+source_paths: 
+  - /
+---
+path: DSpace_DSpace
+source_paths: 
+  - /
+---
+path: eclipse_rap
+source_paths: 
+  - /
+---
+path: dvn_dvn-svn-import-test4
+source_paths: 
+  - /

@@ -1,0 +1,39 @@
+path: KyLinOS_android_packages_apps_Camera
+source_paths: 
+  - /
+---
+path: LOSP_packages_apps_Camera
+source_paths: 
+  - /
+---
+path: aokpx-private_platform_packages_apps_Camera
+source_paths: 
+  - /
+---
+path: apache_activemq
+source_paths: 
+  - /
+---
+path: vaadin_atmosphere
+source_paths: 
+  - /
+---
+path: hazelcast_hazelcast
+source_paths: 
+  - /
+---
+path: sdugit_Camera_7025
+source_paths: 
+  - /
+---
+path: M66B_XPrivacy
+source_paths: 
+  - /
+---
+path: nourlcn_hadoop-1.0
+source_paths: 
+  - /
+---
+path: dCache_dcache
+source_paths: 
+  - /

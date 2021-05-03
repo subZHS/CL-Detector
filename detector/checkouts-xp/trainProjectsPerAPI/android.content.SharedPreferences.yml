@@ -1,0 +1,39 @@
+path: iGio90_android_packages_input_LatinIME
+source_paths: 
+  - /
+---
+path: boundarydevices_LatinIME
+source_paths: 
+  - /
+---
+path: Root-Box_packages_input_LatinIME
+source_paths: 
+  - /
+---
+path: rajankz_AKeyboard
+source_paths: 
+  - /
+---
+path: kfazz_android_packages_inputmethods_LatinIME
+source_paths: 
+  - /
+---
+path: AgeOfMobile_Vietnamese-LatinIME
+source_paths: 
+  - /
+---
+path: socialpercon_anki
+source_paths: 
+  - /
+---
+path: ThinkingBridge_platform_packages_inputmethods_LatinIME
+source_paths: 
+  - /
+---
+path: scotthartbti_android_packages_providers_ContactsProvider
+source_paths: 
+  - /
+---
+path: TEAM-Gummy_platform_packages_providers_ContactsProvider
+source_paths: 
+  - /

@@ -1,0 +1,39 @@
+path: CTMM-TraIT_trait_proteomics_qc_tool
+source_paths: 
+  - /
+---
+path: bcdev_beam
+source_paths: 
+  - /
+---
+path: dound_buffer_sizing
+source_paths: 
+  - /
+---
+path: jazzywhit_Haploview
+source_paths: 
+  - /
+---
+path: jesseeichar_debrief
+source_paths: 
+  - /
+---
+path: AmanziTel_awe-rdt
+source_paths: 
+  - /
+---
+path: Kalliope_Verifiable-Secret-Sharing
+source_paths: 
+  - /
+---
+path: tzok_mcq4structures
+source_paths: 
+  - /
+---
+path: AmanziTel_awe-splash
+source_paths: 
+  - /
+---
+path: AmanziTel_awe-udig
+source_paths: 
+  - /

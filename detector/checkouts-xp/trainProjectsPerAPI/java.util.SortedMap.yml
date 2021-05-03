@@ -1,0 +1,39 @@
+path: irbull_rt.eclipse.p2
+source_paths: 
+  - /
+---
+path: eclipse_tycho.p2-fork
+source_paths: 
+  - /
+---
+path: marytts_marytts
+source_paths: 
+  - /
+---
+path: eclipse_rt.equinox.p2
+source_paths: 
+  - /
+---
+path: anthonydahanne_make-p2-buildable-with-tycho
+source_paths: 
+  - /
+---
+path: freenet_plugin-Freemail-v0.1
+source_paths: 
+  - /
+---
+path: freenet_plugin-Freemail-staging
+source_paths: 
+  - /
+---
+path: jenkinsci_groovy
+source_paths: 
+  - /
+---
+path: idega_se.idega.idegaweb.commune.childcare
+source_paths: 
+  - /
+---
+path: eclipse_eclipse.platform.resources
+source_paths: 
+  - /

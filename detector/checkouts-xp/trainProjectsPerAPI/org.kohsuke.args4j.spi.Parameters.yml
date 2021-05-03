@@ -1,0 +1,39 @@
+path: shantanusharma_closure-compiler
+source_paths: 
+  - /
+---
+path: nicupavel_google-closure-compiler
+source_paths: 
+  - /
+---
+path: bolinfest_plovr
+source_paths: 
+  - /
+---
+path: basilgor_gerrit
+source_paths: 
+  - /
+---
+path: eclipse_b3
+source_paths: 
+  - /
+---
+path: m1kah_gerrit-contributions
+source_paths: 
+  - /
+---
+path: rtyley_mini-git-server
+source_paths: 
+  - /
+---
+path: arcadoss_js-invulnerable
+source_paths: 
+  - /
+---
+path: makholm_gerrit-ceremony
+source_paths: 
+  - /
+---
+path: robovm_robovm
+source_paths: 
+  - /

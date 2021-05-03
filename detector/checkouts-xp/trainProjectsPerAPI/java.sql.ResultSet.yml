@@ -1,0 +1,39 @@
+path: adempiere_adempiere
+source_paths: 
+  - /
+---
+path: ekirkilevics_TestSSQL
+source_paths: 
+  - /
+---
+path: svn2github_fleXive
+source_paths: 
+  - /
+---
+path: tivv_davepgjdbc
+source_paths: 
+  - /
+---
+path: NCIP_catissue-dynamic-extensions
+source_paths: 
+  - /
+---
+path: dCache_dcache
+source_paths: 
+  - /
+---
+path: apache_cayenne
+source_paths: 
+  - /
+---
+path: thkoch2001_libpostgresql-jdbc-java
+source_paths: 
+  - /
+---
+path: deegree_deegree3
+source_paths: 
+  - /
+---
+path: fcrepo_fcrepo-historical
+source_paths: 
+  - /

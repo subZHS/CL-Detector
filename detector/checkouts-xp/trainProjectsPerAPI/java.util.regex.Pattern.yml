@@ -1,0 +1,39 @@
+path: AbinashBishoyi_FreeRapid-Plugins
+source_paths: 
+  - /
+---
+path: IQSS_dvn
+source_paths: 
+  - /
+---
+path: noe_sgf.importer
+source_paths: 
+  - /
+---
+path: UWCS_choob
+source_paths: 
+  - /
+---
+path: dCache_dcache
+source_paths: 
+  - /
+---
+path: processing_processing
+source_paths: 
+  - /
+---
+path: dotCMS_dotCMS
+source_paths: 
+  - /
+---
+path: tmyroadctfig_swingx
+source_paths: 
+  - /
+---
+path: aufdemrand_Denizen
+source_paths: 
+  - /
+---
+path: Lorquas_testrepo
+source_paths: 
+  - /

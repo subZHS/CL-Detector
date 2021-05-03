@@ -1,0 +1,39 @@
+path: protegeproject_webprotege
+source_paths: 
+  - /
+---
+path: chaschev_maven-installation-plugin
+source_paths: 
+  - /
+---
+path: 0x01_degraphmalizer
+source_paths: 
+  - /
+---
+path: DMDirc_Plugins
+source_paths: 
+  - /
+---
+path: hamnis_json-collection
+source_paths: 
+  - /
+---
+path: Kaioso_funkagroovitalizer
+source_paths: 
+  - /
+---
+path: Lyndir_Omicron
+source_paths: 
+  - /
+---
+path: chaschev_chutils
+source_paths: 
+  - /
+---
+path: mati1979_spring-soy-view
+source_paths: 
+  - /
+---
+path: nethad_clustermeister
+source_paths: 
+  - /

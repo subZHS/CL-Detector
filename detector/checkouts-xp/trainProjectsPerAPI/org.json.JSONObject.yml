@@ -1,0 +1,39 @@
+path: skaegi_orion.server
+source_paths: 
+  - /
+---
+path: kvite_astridclone
+source_paths: 
+  - /
+---
+path: openspim_micromanager
+source_paths: 
+  - /
+---
+path: socialpercon_anki
+source_paths: 
+  - /
+---
+path: mdcurtis_micromanager-upstream
+source_paths: 
+  - /
+---
+path: todoroo_astrid
+source_paths: 
+  - /
+---
+path: oferfrid_PrecisExciteTCP
+source_paths: 
+  - /
+---
+path: OpenRefine_OpenRefine
+source_paths: 
+  - /
+---
+path: svn2github_SpagoBI-V4x
+source_paths: 
+  - /
+---
+path: analyst1001_OpenRefine-Hbase
+source_paths: 
+  - /

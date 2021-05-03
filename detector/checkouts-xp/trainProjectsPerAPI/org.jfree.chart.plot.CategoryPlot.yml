@@ -1,0 +1,39 @@
+path: jenkinsci_jacoco-plugin
+source_paths: 
+  - /
+---
+path: jmchilton_peptide-shaker
+source_paths: 
+  - /
+---
+path: jenkinsci_analysis-core-plugin
+source_paths: 
+  - /
+---
+path: Praqma_MonKit-Plugin
+source_paths: 
+  - /
+---
+path: AmanziTel_awe-rdt
+source_paths: 
+  - /
+---
+path: AmanziTel_awe-splash
+source_paths: 
+  - /
+---
+path: integrated_jfreechart
+source_paths: 
+  - /
+---
+path: jenkinsci_global-build-stats-plugin
+source_paths: 
+  - /
+---
+path: cismet_cids-custom-crisma
+source_paths: 
+  - /
+---
+path: jenkinsci_emma-plugin
+source_paths: 
+  - /

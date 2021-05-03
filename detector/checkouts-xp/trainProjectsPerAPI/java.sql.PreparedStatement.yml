@@ -1,0 +1,39 @@
+path: adempiere_adempiere
+source_paths: 
+  - /
+---
+path: ekirkilevics_TestSSQL
+source_paths: 
+  - /
+---
+path: svn2github_fleXive
+source_paths: 
+  - /
+---
+path: dCache_dcache
+source_paths: 
+  - /
+---
+path: prism_Prism
+source_paths: 
+  - /
+---
+path: deegree_deegree3
+source_paths: 
+  - /
+---
+path: Flowdalic_openfire
+source_paths: 
+  - /
+---
+path: apache_derby
+source_paths: 
+  - /
+---
+path: BrotherLogic_mdbcore
+source_paths: 
+  - /
+---
+path: NCIP_catissue-dynamic-extensions
+source_paths: 
+  - /

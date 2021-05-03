@@ -1,0 +1,39 @@
+path: irbull_rt.eclipse.p2
+source_paths: 
+  - /
+---
+path: eclipse_tycho.p2-fork
+source_paths: 
+  - /
+---
+path: aldaris_opensso
+source_paths: 
+  - /
+---
+path: Root-Box_packages_apps_Email
+source_paths: 
+  - /
+---
+path: vaadin_atmosphere
+source_paths: 
+  - /
+---
+path: eclipse_rt.equinox.p2
+source_paths: 
+  - /
+---
+path: AsherBond_opentaps
+source_paths: 
+  - /
+---
+path: iGio90_android_packages_apps_Email
+source_paths: 
+  - /
+---
+path: sisbell_email
+source_paths: 
+  - /
+---
+path: svn2github_crux-framework
+source_paths: 
+  - /

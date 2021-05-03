@@ -1,0 +1,39 @@
+path: irtehun_packages_apps_Settings
+source_paths: 
+  - /
+---
+path: KyLinOS_android_packages_apps_Settings
+source_paths: 
+  - /
+---
+path: mirror-androidarmv6_android_packages_apps_Settings
+source_paths: 
+  - /
+---
+path: Root-Box_packages_apps_Settings
+source_paths: 
+  - /
+---
+path: scotthartbti_android_packages_providers_ContactsProvider
+source_paths: 
+  - /
+---
+path: TheCollective_android_packages_apps_Settings
+source_paths: 
+  - /
+---
+path: g3tsum_rb_apps_Settings
+source_paths: 
+  - /
+---
+path: letama_packages_apps_settings
+source_paths: 
+  - /
+---
+path: adrian-bl-hox-jb_android_packages_apps_Settings
+source_paths: 
+  - /
+---
+path: iGio90_android_packages_apps_Settings
+source_paths: 
+  - /

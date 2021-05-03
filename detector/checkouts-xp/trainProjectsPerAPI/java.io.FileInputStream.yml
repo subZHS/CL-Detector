@@ -1,0 +1,39 @@
+path: irbull_rt.eclipse.p2
+source_paths: 
+  - /
+---
+path: eclipse_tycho.p2-fork
+source_paths: 
+  - /
+---
+path: eclipse_rt.equinox.p2
+source_paths: 
+  - /
+---
+path: VanirAOSP_packages_apps_Mms
+source_paths: 
+  - /
+---
+path: Droid-Concepts_packages_apps_Mms
+source_paths: 
+  - /
+---
+path: ThinkingBridge_platform_pacakges_apps_Mms
+source_paths: 
+  - /
+---
+path: SomethingExplosive_android_packages_apps_Mms
+source_paths: 
+  - /
+---
+path: IQSS_dvn
+source_paths: 
+  - /
+---
+path: anthonydahanne_make-p2-buildable-with-tycho
+source_paths: 
+  - /
+---
+path: KyLinOS_android_packages_apps_Mms
+source_paths: 
+  - /

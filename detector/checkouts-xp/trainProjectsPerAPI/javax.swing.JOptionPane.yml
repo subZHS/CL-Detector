@@ -1,0 +1,39 @@
+path: openspim_micromanager
+source_paths: 
+  - /
+---
+path: h4ck3rm1k3_josm-older
+source_paths: 
+  - /
+---
+path: imr_Electric-VLSI
+source_paths: 
+  - /
+---
+path: cytoscape_cytoscape2
+source_paths: 
+  - /
+---
+path: mdcurtis_micromanager-upstream
+source_paths: 
+  - /
+---
+path: processing_processing
+source_paths: 
+  - /
+---
+path: cismet_cids-custom-wuppertal
+source_paths: 
+  - /
+---
+path: ThatGuyOverTher_Frost
+source_paths: 
+  - /
+---
+path: geworkbench-group_geworkbench-core
+source_paths: 
+  - /
+---
+path: DMDirc_DMDirc
+source_paths: 
+  - /

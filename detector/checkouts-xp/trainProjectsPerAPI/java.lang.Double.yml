@@ -1,0 +1,39 @@
+path: mhl_libbio-formats-java
+source_paths: 
+  - /
+---
+path: fiji_TrakEM2
+source_paths: 
+  - /
+---
+path: CyanogenMod_android_packages_apps_Exchange
+source_paths: 
+  - /
+---
+path: imr_Electric-VLSI
+source_paths: 
+  - /
+---
+path: 0xdata_h2o
+source_paths: 
+  - /
+---
+path: SlimRoms_packages_apps_Exchange
+source_paths: 
+  - /
+---
+path: Buckmarble_android_packages_apps_Exchange
+source_paths: 
+  - /
+---
+path: cytoscape_cytoscape2
+source_paths: 
+  - /
+---
+path: sdugit_Exchange_7025
+source_paths: 
+  - /
+---
+path: iontorrent_Torrent-Variant-Caller-stable
+source_paths: 
+  - /

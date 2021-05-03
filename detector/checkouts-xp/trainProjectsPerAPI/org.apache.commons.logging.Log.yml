@@ -1,0 +1,39 @@
+path: svn2github_htmlunit-fork
+source_paths: 
+  - /
+---
+path: nourlcn_hadoop-1.0
+source_paths: 
+  - /
+---
+path: apache_commons-digester
+source_paths: 
+  - /
+---
+path: kambatla_hadoop-1
+source_paths: 
+  - /
+---
+path: vivo-project_VIVO
+source_paths: 
+  - /
+---
+path: sakai-mirror_site-manage
+source_paths: 
+  - /
+---
+path: sakai-mirror_melete-etudes
+source_paths: 
+  - /
+---
+path: amplafi_amplafi-flow-core
+source_paths: 
+  - /
+---
+path: apache_james-imap
+source_paths: 
+  - /
+---
+path: betterFORM_betterFORM
+source_paths: 
+  - /

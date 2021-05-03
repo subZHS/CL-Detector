@@ -1,0 +1,39 @@
+path: boundarydevices_LatinIME
+source_paths: 
+  - /
+---
+path: iGio90_android_packages_input_LatinIME
+source_paths: 
+  - /
+---
+path: rajankz_AKeyboard
+source_paths: 
+  - /
+---
+path: kfazz_android_packages_inputmethods_LatinIME
+source_paths: 
+  - /
+---
+path: dCache_dcache
+source_paths: 
+  - /
+---
+path: Root-Box_packages_input_LatinIME
+source_paths: 
+  - /
+---
+path: AgeOfMobile_Vietnamese-LatinIME
+source_paths: 
+  - /
+---
+path: ThinkingBridge_platform_packages_inputmethods_LatinIME
+source_paths: 
+  - /
+---
+path: processing_processing
+source_paths: 
+  - /
+---
+path: gmillz_packages_apps_SlimLauncher
+source_paths: 
+  - /

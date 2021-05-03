@@ -1,0 +1,35 @@
+path: Droid-Concepts_packages_apps_Contacts
+source_paths: 
+  - /
+---
+path: scotthartbti_android_packages_apps_Contacts
+source_paths: 
+  - /
+---
+path: DroidJunk_droidjunk_packages_apps_Contacts
+source_paths: 
+  - /
+---
+path: ninjanetworks_contacts
+source_paths: 
+  - /
+---
+path: AndroidDeveloperAlliance_platform_packages_apps_Contacts
+source_paths: 
+  - /
+---
+path: cubieboard_openbox_packages_apps_Contacts
+source_paths: 
+  - /
+---
+path: g3tsum_rb_apps_Settings
+source_paths: 
+  - /
+---
+path: rcilia_LauncherOfficiel
+source_paths: 
+  - /
+---
+path: timduru_platform-packages-Launcher2
+source_paths: 
+  - /

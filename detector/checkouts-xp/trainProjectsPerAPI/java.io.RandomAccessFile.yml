@@ -1,0 +1,39 @@
+path: chgenly_experiment
+source_paths: 
+  - /
+---
+path: AsyncHttpClient_async-http-client
+source_paths: 
+  - /
+---
+path: ConatyConsulting_jaudiotagger
+source_paths: 
+  - /
+---
+path: charles-dyfis-net_svnkit
+source_paths: 
+  - /
+---
+path: craigpetchell_Jaudiotagger
+source_paths: 
+  - /
+---
+path: dCache_dcache
+source_paths: 
+  - /
+---
+path: mhl_libbio-formats-java
+source_paths: 
+  - /
+---
+path: nourlcn_hadoop-1.0
+source_paths: 
+  - /
+---
+path: apache_activemq
+source_paths: 
+  - /
+---
+path: mirror_jpcsp
+source_paths: 
+  - /

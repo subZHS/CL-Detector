@@ -1,0 +1,31 @@
+path: gmillz_packages_apps_SlimLauncher
+source_paths: 
+  - /
+---
+path: KyLinOS_android_packages_apps_Camera
+source_paths: 
+  - /
+---
+path: aokpx-private_platform_packages_apps_Camera
+source_paths: 
+  - /
+---
+path: timduru_platform-packages-Launcher2
+source_paths: 
+  - /
+---
+path: rcilia_LauncherOfficiel
+source_paths: 
+  - /
+---
+path: boundarydevices_LatinIME
+source_paths: 
+  - /
+---
+path: g3tsum_rb_apps_Settings
+source_paths: 
+  - /
+---
+path: socialpercon_anki
+source_paths: 
+  - /

@@ -1,0 +1,39 @@
+path: Root-Box_packages_apps_Email
+source_paths: 
+  - /
+---
+path: sisbell_email
+source_paths: 
+  - /
+---
+path: sdugit_Email_7025
+source_paths: 
+  - /
+---
+path: pbeeler_android_packages_apps_Email
+source_paths: 
+  - /
+---
+path: rowboat_packages-apps-email
+source_paths: 
+  - /
+---
+path: MIPS_packages-apps-Email
+source_paths: 
+  - /
+---
+path: tmobile_themes-platform-packages-apps-Email
+source_paths: 
+  - /
+---
+path: mtwebster_IEmail
+source_paths: 
+  - /
+---
+path: Dustinmj_Froyo_Email
+source_paths: 
+  - /
+---
+path: boundarydevices_LatinIME
+source_paths: 
+  - /

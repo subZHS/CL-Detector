@@ -1,0 +1,39 @@
+path: SlimRoms_packages_apps_DeskClock
+source_paths: 
+  - /
+---
+path: scotthartbti_android_packages_apps_DeskClock
+source_paths: 
+  - /
+---
+path: MoKee_android_packages_apps_DeskClock
+source_paths: 
+  - /
+---
+path: Evervolv_android_packages_apps_DeskClock
+source_paths: 
+  - /
+---
+path: AOKP_packages_apps_DeskClock
+source_paths: 
+  - /
+---
+path: schildbach_public-transport-enabler
+source_paths: 
+  - /
+---
+path: TripNRaVeR_android_packages_apps_DeskClock
+source_paths: 
+  - /
+---
+path: maddoggin_platform_packages_apps_DeskClock
+source_paths: 
+  - /
+---
+path: cphelps76_packages_apps_DeskClock
+source_paths: 
+  - /
+---
+path: KyLinOS_android_packages_apps_Browser
+source_paths: 
+  - /

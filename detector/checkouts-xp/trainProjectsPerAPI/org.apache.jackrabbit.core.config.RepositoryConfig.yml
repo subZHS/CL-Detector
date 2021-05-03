@@ -1,0 +1,39 @@
+path: apache_jackrabbit-oak
+source_paths: 
+  - /
+---
+path: apache_sling
+source_paths: 
+  - /
+---
+path: Spectrsys_cosmo
+source_paths: 
+  - /
+---
+path: apache_archiva
+source_paths: 
+  - /
+---
+path: kbachl_brix-cms-backup
+source_paths: 
+  - /
+---
+path: porcelli_OpenSpotLight
+source_paths: 
+  - /
+---
+path: entwinemedia_weblounge
+source_paths: 
+  - /
+---
+path: idega_com.idega.jackrabbit
+source_paths: 
+  - /
+---
+path: jahnje_delcyon-capo
+source_paths: 
+  - /
+---
+path: nuxeo_nuxeo-core
+source_paths: 
+  - /

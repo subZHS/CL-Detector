@@ -1,0 +1,39 @@
+path: adamarla_documentMaster
+source_paths: 
+  - /
+---
+path: OpenGrok_OpenGrok
+source_paths: 
+  - /
+---
+path: RyanTheAllmighty_ATLauncher
+source_paths: 
+  - /
+---
+path: StratusLab_storage
+source_paths: 
+  - /
+---
+path: illumos_opengrok
+source_paths: 
+  - /
+---
+path: GreenTeaScript_GreenTeaScript
+source_paths: 
+  - /
+---
+path: BaseXdb_basex
+source_paths: 
+  - /
+---
+path: kframework_k
+source_paths: 
+  - /
+---
+path: yasuaki_opengrok
+source_paths: 
+  - /
+---
+path: winhamwr_selenium
+source_paths: 
+  - /

@@ -1,0 +1,39 @@
+path: mcidasv_mcidasv
+source_paths: 
+  - /
+---
+path: SmartBear_soapui
+source_paths: 
+  - /
+---
+path: h4ck3rm1k3_josm-older
+source_paths: 
+  - /
+---
+path: DMDirc_DMDirc
+source_paths: 
+  - /
+---
+path: cytoscape_cytoscape2
+source_paths: 
+  - /
+---
+path: imr_Electric-VLSI
+source_paths: 
+  - /
+---
+path: irstv_orbisgis
+source_paths: 
+  - /
+---
+path: openspim_micromanager
+source_paths: 
+  - /
+---
+path: Echo-tcx_Jitsi
+source_paths: 
+  - /
+---
+path: rasto_lcmc
+source_paths: 
+  - /

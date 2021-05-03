@@ -1,0 +1,23 @@
+path: earl_rhino-mirror
+source_paths: 
+  - /
+---
+path: matthieu_rhymeno
+source_paths: 
+  - /
+---
+path: sprintstack_rhino
+source_paths: 
+  - /
+---
+path: dojo_util
+source_paths: 
+  - /
+---
+path: ojacquemart_rhino-js-dependencies
+source_paths: 
+  - /
+---
+path: zazl_shrinksafe
+source_paths: 
+  - /

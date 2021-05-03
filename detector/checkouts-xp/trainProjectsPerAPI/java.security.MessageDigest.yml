@@ -1,0 +1,39 @@
+path: charles-dyfis-net_svnkit
+source_paths: 
+  - /
+---
+path: HidemotoNakada_cassandra-udf
+source_paths: 
+  - /
+---
+path: Root-Box_packages_apps_Email
+source_paths: 
+  - /
+---
+path: Droid-Concepts_packages_apps_Email
+source_paths: 
+  - /
+---
+path: iGio90_android_packages_apps_Email
+source_paths: 
+  - /
+---
+path: TeamNyx_packages_apps_Email
+source_paths: 
+  - /
+---
+path: bcoverston_apache-hosted-cassandra
+source_paths: 
+  - /
+---
+path: sisbell_email
+source_paths: 
+  - /
+---
+path: pbeeler_android_packages_apps_Email
+source_paths: 
+  - /
+---
+path: pdinc-oss_jgit
+source_paths: 
+  - /
