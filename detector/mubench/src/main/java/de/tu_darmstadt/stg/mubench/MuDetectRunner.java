@@ -1,16 +1,23 @@
 package de.tu_darmstadt.stg.mubench;
 
 import de.tu_darmstadt.stg.mubench.cli.MuBenchRunner;
+import de.tu_darmstadt.stg.sourcerule.SourceRuleParser;
+import org.apache.commons.lang3.StringUtils;
 
 import java.io.File;
+import java.io.IOException;
+import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Properties;
 
 public class MuDetectRunner {
 
     public static String precisionResultDirName = "precisionResult";
     public static String resultDirName = "results";
+
+    public static Properties systemProperties = new Properties();
 
     public static void main(String[] args) throws Exception {
         //TODO (myCode)
@@ -21,8 +28,32 @@ public class MuDetectRunner {
                 .run(args);
     }
 
+    public static void configProperties() throws RuntimeException {
+        InputStream in = MuDetectRunner.class.getClassLoader().getResourceAsStream("config.properties");
+        try {
+            systemProperties.load(in);
+            String libRootDir = systemProperties.getProperty("libRootDir", null);
+            if(!StringUtils.isEmpty(libRootDir)){
+                SourceRuleParser.libRootDir = libRootDir;
+            }
+            String trainProjectBasePath = systemProperties.getProperty("trainProjectBasePath", null);
+            if(!StringUtils.isEmpty(trainProjectBasePath)){
+                CrossProjectStrategy.trainProjectBasePath = trainProjectBasePath;
+            }
+            String targetProjectBasePath = systemProperties.getProperty("targetProjectBasePath", null);
+            if(!StringUtils.isEmpty(targetProjectBasePath)){
+                TargetProject.targetProjectBasePath = targetProjectBasePath;
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+            throw new RuntimeException("fail to read config.properties. ");
+        }
+    }
+
     public static String[] supplyArgs(String[] args){
         //TODO (myCode)
+        configProperties();
+
         List<String> argList = new ArrayList<>(Arrays.asList(args));
 
         boolean isPrecisionExp = false;

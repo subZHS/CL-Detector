@@ -1,0 +1,129 @@
+# get top 50 projects which has the maximum number of fix revisions involving a API.
+
+p: Project = input;
+out: output top(50) of string weight int;
+
+API_class := "java.util.List";
+API_import_abbr := "java.util.*";
+API_class_abbr := "List";
+
+files: set of string;
+imports_List: bool;
+uses_List: bool;
+revision_match:= false;
+revision_count: int;
+projects: set of string;
+visiting_snapshot: bool;
+snapshot_file_match:= false;
+snapshot_file_count: int;
+
+visit(p, visitor {
+    before repo: CodeRepository -> {
+        revision_count = 0;
+        snapshot_file_count = 0;
+        if (repo.kind != RepositoryKind.GIT) stop;
+
+        # Visit only newest snapshot.
+        visiting_snapshot = true;
+        snapshot := getsnapshot(repo, "SOURCE_JAVA_JLS");
+        foreach (i: int; def(snapshot[i])) {
+            visit(snapshot[i]);
+        }
+        visiting_snapshot = false;
+    }
+    before revision: Revision -> {
+        if (!isfixingrevision(revision.log)){
+            stop;
+        }
+        changedFiles: set of string;
+        foreach (i: int; def(revision.files[i])) {
+            name := revision.files[i].name;
+            if (!match("test", lowercase(name)) && match(".java", name)) {
+                add(changedFiles, name);
+            }
+        }
+        if(len(changedFiles) > 3 || len(changedFiles) <= 0 ){
+            stop;
+        }
+        clear(files);
+        revision_match = false;
+    }
+    before f: ChangedFile -> {
+        if (f.change == ChangeKind.DELETED) stop;
+        if (contains(files, f.name) || match("test", lowercase(f.name))) stop;
+        add(files, f.name);
+        snapshot_file_match = false;
+    }
+    before astRoot: ASTRoot -> {
+        imports: = astRoot.imports;
+        imports_List = false;
+        # Check imports to know whether simple type references match the type.
+        # `java.lang.*` types are always implicitly imported.
+        foreach (i: int; def(imports[i])) {
+            if ((imports[i] == API_class) || (imports[i] == API_import_abbr)) {
+                imports_List = true;
+            }
+            if(API_import_abbr == "java.lang.*"){
+                imports_List = true;
+            }
+        }
+    }
+    before method: Method -> {
+        if (visiting_snapshot && snapshot_file_match) stop;
+        if (!visiting_snapshot && revision_match) stop;
+        # Searching for methods that use _all_ requested type, hence, resetting uses.
+        uses_List = false;
+    }
+    before t: Type -> {
+        # Check type literals.
+        if ((imports_List && t.name == API_class_abbr) || (t.name == API_class)) {
+            uses_List = true;
+        }
+    }
+    before variable: Variable -> {
+        # Check variable/parameter types.
+        if ((imports_List && variable.variable_type.name == API_class_abbr) || (variable.variable_type.name == API_class)) {
+            uses_List = true;
+        }
+    }
+    before e: Expression -> {
+        # Check static method call receivers.
+        if (e.kind == ExpressionKind.METHODCALL) {
+            # BOA does not distinguish static calls from calls on variables. We assume a match, if the variable
+            # name matches the simple type name and the type is imported. This causes false positives, if a
+            # variable shadows the type.
+            exists(i: int; e.expressions[i].kind == ExpressionKind.VARACCESS) {
+                if ((imports_List && e.expressions[i].variable == API_class_abbr) || (e.expressions[i].variable == API_class)) {
+                    uses_List = true;
+                }
+            }
+        }
+    }
+    after method: Method -> {
+        if (uses_List) {
+            revision_match = true;
+            snapshot_file_match = true;
+        }
+    }
+    after f: ChangedFile -> {
+        if (visiting_snapshot && snapshot_file_match) {
+            snapshot_file_count += 1;
+        }
+    }
+    after revision: Revision -> {
+        if (!visiting_snapshot && revision_match) {
+            revision_count += 1;
+        }
+    }
+    after repo: CodeRepository -> {
+        if ((revision_count > 0 || snapshot_file_count > 0) && !contains(projects, p.name)){
+            item := p.project_url + " " + string(revision_count) + " " + string(snapshot_file_count);
+            count := revision_count + snapshot_file_count / 10;
+            if (revision_count < 30){
+                count = revision_count;
+            }
+            out << item weight count;
+            add(projects, p.name);
+        }
+    }
+});
