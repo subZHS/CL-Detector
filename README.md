@@ -17,10 +17,10 @@ We propose a bi-source approach that mines API constraints from both client and 
 
 L-Extractor infers API constraints from library source code. Several well-designed strategies are applied to infer various constraints such as condition checking, exception handling and call order constraints.
 
-More implementation details are available [here](./L-Extractor/README.md).
+More implementation details are available [here](./L-Extractor).
 
 ## Detector
 
 Based on [MuDetect](https://github.com/stg-tud/MUDetect), a pattern-based API misuse detector, we mine constraints from client code, and combine them with constraints inferred from library code. Finally we detect API misuses using the above constraints.
 
-More implementation details are available [here](./detector/README.md).
+More implementation details are available [here](./detector).
