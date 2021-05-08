@@ -24,9 +24,9 @@ As stated in the paper, the rules can be divided into three categories: Exceptio
 
 ##### Preparation
 - Create a folder named 'lib' in the directory of the 'src' folder, like this:
-![pic1](/pic/1.jpg)
+![pic1](./pic/1.jpg)
 - Then create a list of the source code which need to be analyzed and store it a txt-file named 'codeList.txt', and put the corresponding source code files in the same folder, like this:
-![pic2](/pic/2.jpg)
+![pic2](./pic/2.jpg)
 - Or you can change the path setting configuration in src/main/java/Main.java to change file reading methods.
 ##### Run
 
