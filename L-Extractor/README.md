@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This part implements the deriving strategies to derive constraints from library code. We designed our own source code rules mining scheme based on *javaparser*(https://github.com/javaparser/javaparser), and also did some processing on the content of Javadoc to help to locate the rules .
+This part implements the deriving strategies to derive constraints from library code. We designed our constraint deriving strategies based on *javaparser*(https://github.com/javaparser/javaparser), and also did some processing on the content of Javadoc to help to locate the constraints.
 
 The start function is
 
@@ -10,11 +10,11 @@ The start function is
 public void anASt(String FILE_PATH, LibParam libParam) throws FileNotFoundException
 ~~~
 
-which is the entrance to source code analysis.
+which is the entrance to library source code analysis.
 
-Based on the VoidVisitorAdapter module of *javaparser*, we have rewritten the traversal method of different statements, and look for the rudimentary rules at the same time.
+Based on the VoidVisitorAdapter module of *javaparser*, we have rewritten the traversal method of different statements, and look for the rudimentary constraints at the same time.
 
-As stated in the paper, the rules can be divided into three categories: Exception, Condition, Order. After the source code analysis is completed, the tree types of rules output in order.
+As stated in the paper, the constraints can be divided into three categories: Exception handling, Condition checking,  Call Order. After the library code analysis is completed, the three types of constraints output in order.
 
 ### Build
 ##### Requirements
@@ -36,17 +36,17 @@ The start function is
 public static void main(String args[]) throws IOException
 ~~~
 
-in src/main/java/Main.java. After the files are parsed, the rules result will be output to a csv file with a time-stamp. 
+in src/main/java/Main.java. After the files are parsed, the constraints result will be output to a csv file with a time-stamp. 
 
 ### Output
 The output file includes the following columns:
-- Id: rule number
+- Id: constraint number
 - API Method: the specific function signature
 - Library Name/Library Version/Class: The source file and version of the function
 - Start Line/End Line: the source code location
-- Type: rule classification, includes *exception*, *condition*, *order*
-- Exception/Exception Condition: only rules of exception have this two columns
-- Pre Order/Restrain Id: only rules of order have this column
-- Condition:  only rules of condition have this column
+- Type: constraint classification, includes *exception*, *condition*, *order*
+- Exception/Exception Condition: only constraints of *exception* have this two columns
+- Pre Order/Restrain Id: only constraints of *order* have this column
+- Condition:  only constraints of *condition* have this column
 
 
