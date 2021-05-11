@@ -11,7 +11,7 @@ We propose a bi-source approach that mines API constraints from both client and 
 3. CL-Integrator combines the constraints from both sources.
 4. CL-Detector uses both-side constraints to detect misuses such as missing call, missing condition checking, and missing exception handling.
 
-<img src="./Approach.png" alt="overview" style="zoom:40%;" />
+<img src="./Approach.png" alt="overview" style="zoom:10%;" />
 
 ## Dataset
 
