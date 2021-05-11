@@ -1,10 +1,8 @@
-# Detector
-
-An API-misuse detector using API constraints from both client code and library code.
-
-## Introduction 
+# CL-Detector
 
 Based on [MuDetect](https://github.com/stg-tud/MUDetect), a pattern-based misuse detector, we implement our API-misuse detector CL-Detector using API constraints from both client code and library code. 
+
+From library code, we apply several well-designed strategies to infer various constraints.
 
 From client code, we extract API usage graphs (AUGs) and mine frequent usage patterns as constraints from client code. 
 
@@ -24,6 +22,7 @@ Finally, our detector uses both-side constraints to detect misuses such as missi
   - The config parameter trainProjectBasePath is the directory containing client projects with top API occurrences mined from Boa tool. Please download client projects accordding to [ClientProjectsByBoa.zip](../dataset/ClientProjectsByBoa.zip).
   - The config parameter targetProjectBasePath is the directory of source code of projects in MuBench dataset. Please download target projects in MuBench accordding to [MuBench.csv](../dataset/MuBench.csv).
 - Modify the files in checkouts-xp directory accordding to actual dataset. These files include the csv file containing constraints from library code, the csv file collecting misuses in MuBench, and client project lists of each API for mining constraints from client code. 
+- For a new target API set, run [L-Extractor](./L-Extractor) to infer constraints from library code.
 
 ## Use
 
